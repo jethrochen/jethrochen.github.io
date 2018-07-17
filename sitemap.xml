@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nothing.ml/</loc>
-  <lastmod>2018-07-17T04:46:00Z</lastmod>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://nothing.ml/2018/</loc>
@@ -15,7 +15,11 @@
  </url>
  <url>
   <loc>https://nothing.ml/archive.html</loc>
-  <lastmod>2018-07-17T05:37:00Z</lastmod>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nothing.ml/blog/</loc>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://nothing.ml/blog/te-zheng-gong-cheng-zai-yan-jiu-he-gong-ye-ying-yong-zhong-de-chai-bie/</loc>
@@ -23,7 +27,15 @@
  </url>
  <url>
   <loc>https://nothing.ml/categories/</loc>
-  <lastmod>2018-07-16T17:28:00Z</lastmod>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nothing.ml/categories/cat_qi-ji-yin-qiao/</loc>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nothing.ml/categories/ke-xue-shang-wang/</loc>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://nothing.ml/galleries/</loc>
@@ -32,5 +44,13 @@
  <url>
   <loc>https://nothing.ml/listings/</loc>
   <lastmod>2018-07-16T17:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nothing.ml/posts/</loc>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nothing.ml/posts/yong-gu-ge-yun-da-jian-ti-zi/</loc>
+  <lastmod>2018-07-17T05:45:00Z</lastmod>
  </url>
 </urlset>
