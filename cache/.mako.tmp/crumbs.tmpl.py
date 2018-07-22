@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1531806319.5293682
+_modified_time = 1532231660.9068758
 _enable_loop = True
-_template_filename = 'themes/maupassant/templates/crumbs.tmpl'
+_template_filename = 'themes/bootstrap/templates/crumbs.tmpl'
 _template_uri = 'crumbs.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['bar']
@@ -52,6 +52,6 @@ def render_bar(context,crumbs):
 
 """
 __M_BEGIN_METADATA
-{"filename": "themes/maupassant/templates/crumbs.tmpl", "uri": "crumbs.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 18, "27": 2, "32": 2, "33": 3, "34": 4, "35": 6, "36": 7, "37": 8, "38": 9, "39": 9, "40": 9, "41": 10, "42": 11, "43": 11, "44": 11, "45": 11, "46": 11, "47": 15, "53": 47}}
+{"filename": "themes/bootstrap/templates/crumbs.tmpl", "uri": "crumbs.tmpl", "source_encoding": "utf-8", "line_map": {"16": 0, "21": 18, "27": 2, "32": 2, "33": 3, "34": 4, "35": 6, "36": 7, "37": 8, "38": 9, "39": 9, "40": 9, "41": 10, "42": 11, "43": 11, "44": 11, "45": 11, "46": 11, "47": 15, "53": 47}}
 __M_END_METADATA
 """

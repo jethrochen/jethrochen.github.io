@@ -143,7 +143,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "maupassant"
+THEME = "bootstrap"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -1362,3 +1362,8 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+GLOBAL_CONTEXT.update({
+    "JIDN": {},  # Extra info about authors
+    # "JIDN-theme": "theme-base-blue",
+})
